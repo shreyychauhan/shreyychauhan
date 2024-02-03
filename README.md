@@ -7,9 +7,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shreyychauhan&theme=radical&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-
-
-
 <br>
 <br>
 
@@ -42,7 +39,7 @@ Refresh Rate: 144hz.<br>
 <h1></h1>
 </p> -->
 <p align="center">
-📧 Reach me at:chauhanshrey.sc@gmail.com
+📧 Reach me at: chauhanshrey.sc@gmail.com
 <br>
 <br>
 <a href="https://www.linkedin.com/in/shreychauhan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="ishika kesarwani" height="20" width=auto />
