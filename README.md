@@ -33,14 +33,14 @@
 ROG STRIX G15 2020<br>
 
 </p>
-<p align="center">
+<!-- <p align="center">
 Processor: 10th Gen Intel Core i7-10870H;<br>
 Graphics: Dedicated NVIDIA GeForce GTX 1650 Ti GDDR6 4GB VRAM;<br>
 Memory: 16GB DDR4; 
 Refresh Rate: 144hz.<br>
 
 <h1></h1>
-</p>
+</p> -->
 <p align="center">
 📧 Reach me at:chauhanshrey.sc@gmail.com
 <br>
