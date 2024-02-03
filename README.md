@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Chauhan</h1>
-<p align="center"> Undergrad student at UPES Dehradun pursuing Bachelors in Computer science engineering with specialization in AIML.</p>
+<p align="center"> Working data engineer and interest in core ML technologies.</p>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shreyychauhan&show_icons=true&count_private=true&theme=aura&hide_border=true&hide=issues,contribs&bg_color=00000000">
