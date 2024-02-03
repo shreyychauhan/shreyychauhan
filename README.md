@@ -30,7 +30,7 @@
 <h3 align="center">Rig</h3>
 
 <p align="center">
-ROG STRIX G15 2020<br>
+<!-- ROG STRIX G15 2020<br> -->
 
 </p>
 <!-- <p align="center">
